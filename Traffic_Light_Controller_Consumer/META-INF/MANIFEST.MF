@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Traffic_Light_Controller_Consumer
+Bundle-SymbolicName: Traffic_Light_Controller_Consumer
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: traffic_light_controller_consumer.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-23
+Automatic-Module-Name: Traffic.Light.Controller.Consumer
+Import-Package: org.osgi.framework;version="1.3.0",
+ speedsensorproducer,
+ trafficdensityproducer,
+ weatherdataproducer
+Bundle-ActivationPolicy: lazy

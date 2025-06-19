@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: WeatherDataProducer
+Bundle-SymbolicName: WeatherDataProducer
+Bundle-Version: 1.0.0.qualifier
+Export-Package: weatherdataproducer
+Bundle-Activator: weatherdataproducer.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-23
+Automatic-Module-Name: WeatherDataProducer
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
