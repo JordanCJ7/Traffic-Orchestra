@@ -151,4 +151,4 @@ Transit Status: On Time
 [Specify your license here]
 
 ## Contributors
-[Janitha Gamage] 
+[Janitha Gamage] (https://www.manning.com/books/osgi-in-action)
