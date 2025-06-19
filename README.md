@@ -1,5 +1,5 @@
 # Traffic-Orchestra
-OSGI Based Smart Traffic Management
+OSGI Based Smart Traffic Management System
 
 ## Overview
 Traffic-Orchestra is a modular, service-oriented architecture for smart traffic management systems. It demonstrates how OSGi framework can be used to build a flexible and extensible traffic monitoring and control system where different components can work together while remaining loosely coupled.
