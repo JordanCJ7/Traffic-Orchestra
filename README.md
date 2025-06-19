@@ -151,4 +151,4 @@ Transit Status: On Time
 [Specify your license here]
 
 ## Contributors
-[Janitha Gamage] (https://github.com/JordanCJ7)
+[Janitha Gamage](https://github.com/JordanCJ7)
